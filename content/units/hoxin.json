@@ -1,7 +1,7 @@
 {
   "type": "tank",
   "name": "[#00FF00]Hoxin",
-  "description": "Fires standard bullets at [red]enemy structures. Less effective against units.",
+  "description": "Fires standard bullets at enemy structures. Less effective against units.",
   "health": 100,
   "armor": 3,
   "squareShape": true,
